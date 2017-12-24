@@ -2,7 +2,9 @@
 
 This project was created from the core idea of a [StackOverflow Q&A](http://stackoverflow.com/questions/10026234/guides-when-moving-jquery-ui-draggable-boxes) which did not considered snaping guides for parent-child DOM elements.
 
->Project is using jquery, jQueryUI and UnderscoreJS as libraries for snap guide function.
+## Demo - https://nithincvpoyyil.github.io/dragguides/
+
+### Project is using jquery, jQueryUI and UnderscoreJS as libraries for snap guide function.
 
 
 **Logic**
